@@ -2,8 +2,8 @@ import 'dart:math';
 
 void main() {
   final random = Random();
-  var a = random.nextInt(100) + 1; // gera entre 1 e 100
-  var b = random.nextInt(100) + 1;
+  final a = random.nextInt(100) + 1; // gera entre 1 e 100
+  final b = random.nextInt(100) + 1;
   var temp = a; // variável temporária para guardar 'a' antes de perder o valor original
 
   // print antes de inverter os valores
