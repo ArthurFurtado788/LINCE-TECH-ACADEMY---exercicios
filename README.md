@@ -14,7 +14,7 @@ Repositório com a finalidade de compartilhar as entregas dos exercícios da for
 # MÓDULOS
 
 - Introdução á lógica de programação ✅
-- Trabalhando com GIT
+- Trabalhando com GIT -> repositório: https://github.com/ArthurFurtado788/git_na_pratica.git ✅
 - Introdução à metodologias ágeis
 - Formação Dart
 - Formação Flutter
