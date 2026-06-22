@@ -15,8 +15,8 @@ Repositório com a finalidade de compartilhar as entregas dos exercícios da for
 
 - Introdução á lógica de programação ✅
 - Trabalhando com GIT -> repositório: https://github.com/ArthurFurtado788/git_na_pratica.git ✅
-- Introdução à metodologias ágeis
-- Formação Dart
+- Introdução à metodologias ágeis -> trello: https://trello.com/b/gVhneSEI/lince-tech-academy-rotina ✅
+- Formação Dart 
 - Formação Flutter
 - Flutter intermediário
 - SOFT SKILLS
